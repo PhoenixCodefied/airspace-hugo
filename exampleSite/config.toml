@@ -20,9 +20,9 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "/readinglist"
+URL = "readinglist"
 name = "My Reading List"
-weight = ""
+weight = "7"
 [[menu.footer]]
 URL = "about"
 name = "About"
