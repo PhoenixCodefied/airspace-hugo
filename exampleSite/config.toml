@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Sourav Sen"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Sourav Sen](https://sensourav.com) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
