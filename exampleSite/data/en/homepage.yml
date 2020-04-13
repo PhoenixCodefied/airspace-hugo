@@ -1,12 +1,11 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  bg_image: images/lighthouse-main-image.jpg
+  title: ''
+  content: ''
   button:
-    enable: true
+    enable: false
     label: Visit my Blog
     link: Post
 about:
