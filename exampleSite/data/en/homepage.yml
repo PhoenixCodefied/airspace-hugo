@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: images/gray-scale-photography-of-lighthouse-722664-2.jpg
-  title: ''
-  content: ''
+  title: Sourav Sen
+  content: In search of light as I sail through this world
   button:
     enable: false
     label: Visit my Blog
